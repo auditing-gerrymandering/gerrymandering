@@ -1,6 +1,6 @@
-# Fair and Unbiased Districting
+# Auditing for Gerrymandering by Identifying Disenfranchised Individuals
 
-This repo is the home of the data and Python scripts/Jupyter notebooks that accompany the paper Algorithms for Fair and Unbiased Redistricting. The bulk of this research was conducted as part of the
+This repo is the home of the data and Python scripts/Jupyter notebooks that accompany the paper Auditing for Gerrymandering by Identifying Disenfranchised Individuals, published in ACM FAccT'22.  The bulk of this research was conducted as part of the
 2020 Duke University CS+ Program and under the supervision of Prof. Brandon Fain and Vaishali Jain. 
 
 ## Team Members:
@@ -21,7 +21,7 @@ Generally speaking, the repo has been organized into separate code and data segm
 
 ## /visualization
 ### `diogenes_scatter.ipynb`
-Contains the code to create the scatter plots with gerrymandering score on the y-axis and (TODO: what's on the a-axis?)
+Contains the code to create the scatter plots of how fast the gerrymandering score decreases as the simulated annleaing algorithm progresses. 
 
 ### `heatmap.ipynb`
 Contains the code to create our heatmap visualizations for the paper. 
